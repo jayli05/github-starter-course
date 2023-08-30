@@ -1,3 +1,5 @@
+Hi everyone! My name is Jay (he/they pronouns)and I like video games and cooking.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
